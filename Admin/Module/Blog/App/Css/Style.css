@@ -1,0 +1,82 @@
+
+.container {
+    display: table;
+}
+.row {
+    display: table-row;
+    height: 100%;
+}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    display: table-cell;
+}
+
+#blog{
+    min-height: 700px;
+    padding-top: 5%;
+}
+
+#Card_View{
+
+}
+
+.Card_autor{
+    float: right;
+    display: block;
+}
+
+#Card_slide{
+    min-height: 500px;
+    padding: 2%;
+}
+
+#recherche{
+    padding: 2%;
+    text-align: center;
+    border: 1px dashed black;
+    border-radius: 3px;
+    margin-bottom: 3%;
+    background-color: rgba(0,0,0,0.1);
+}
+
+#archivre{
+    padding: 2%;
+    border: 1px dashed black;
+    border-radius: 3px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+#archivre h2{
+    text-align: center;
+}
+
+.Card{
+    padding: 1%;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 2%;
+    margin-top: 2%;
+    display: block;
+}
+
+.Card_img{
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.Card_title{
+    display: block;
+    border-bottom: 1px dashed black;
+}
+
+.Card_title span:nth-child(2){
+    display: block;
+    float: right;
+}
+
+.Card_description{
+    width: 93%;
+    margin-left: 11px;
+    margin-top: 3%;
+    display: block;
+}
+

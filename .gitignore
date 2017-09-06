@@ -1,0 +1,8 @@
+
+*.xml
+*.iml
+/Vendor/
+/.idea/
+/install_isOK/
+install_isOK/
+install/install.php

@@ -1,0 +1,9 @@
+{
+    "_comment": "Template",
+    "Host": "127.0.0.1",
+    "Database": "framework_jbdfjojo",
+    "User": "root",
+    "Password": "",
+    "Template": "Template\/Default",
+    "Racine": "\/jbdfjojo-framework_V2\/"
+}

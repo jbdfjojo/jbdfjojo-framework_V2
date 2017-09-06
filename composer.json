@@ -1,0 +1,23 @@
+{
+    "name": "nathan-port/jbdfjojo-framework_v2",
+    "require": {
+        "twbs/bootstrap": "^3.3",
+        "components/font-awesome": "^4.7",
+        "components/jquery": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "jbdfjojo",
+            "email": "jbdfjojo@hotmail.fr"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Database\\": "App/Database/",
+            "Config\\": "App/Config/",
+            "Module\\": "Admin/Module/"
+        }
+    }
+
+}
